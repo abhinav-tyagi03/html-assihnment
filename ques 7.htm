@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <link rel="stylesheet" href="ques 7.css">
+</head>
+
+<body>
+  <h3 id="firsth">This is my form</h3>
+  <fieldset>
+    <legend>Personal Info</legend>
+    <form>
+
+        <label for="fname">First Name:</label>
+        <input type="text" name="fname" required><br>
+        <label for="lname">Last Name:</label>
+        <input type="text" name="lname">
+
+  </fieldset>
+  <hr color="red">
+  <fieldset>
+    <legend>Course Info</legend>
+
+      <label for="course">Course:</label><br>
+      <input type="radio" name="course" value=""><label for="course">Web Design</label><br>
+      <input type="radio" name="course" value=""><label for="course">SQL</label><br>
+      <input type="radio" name="course" value=""><label for="course">Programming</label><br>
+      <label for="goal">Carrer Goal</label><br>
+      <select name="carrer_goal">
+        <option value="Programming">Programming</option>
+        <option value="Web Designer">Web Designer</option>
+        <option value="Data Scientist">Data Scientist</option>
+      </select><br><br>
+      <label for="extra skill">Describe any extra Skill</label><br>
+      <textarea name="name" rows="8" cols="50"></textarea><br>
+      <label for="Email">Email</label>
+      <input type="email" name="Email" value="" required>
+
+  </fieldset>
+  <hr color="red">
+  <label>For how long would you like to work with us</label><br>
+  <input type="radio" name="" value=""><label>1 Year</label>
+  <input type="radio" name="" value=""><label>Seasonal Work</label><br>
+  <input type="submit" name="" value="Enter my information">&nbsp;&nbsp;<button type="button" name="button">Reset Form</button>
+  </form>
+</body>
+
+</html>

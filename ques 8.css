@@ -1,0 +1,25 @@
+form input{
+  margin: 5px
+}
+body{
+  background-color: skyblue;
+
+}
+table, th, td{
+  background-color: yellow;
+  border: 5px ridge yellow;
+  border-collapse: collapse;
+}
+#abc{
+  padding: 20px;
+
+}
+#ab12{
+  width: 50px
+}
+#qwe{
+  max-width: 50px
+}
+.nill{
+  width: 33px
+}

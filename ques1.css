@@ -1,0 +1,46 @@
+.container{
+  background-color: pink;
+
+}
+
+
+.ab{
+  background-color: red;
+ height: 500px;
+ width: 500px;
+ border-style: double groove;
+ border-top-color: red;
+ border-bottom-color: blue;
+ border-right-color: green;
+ border-left-color:yellow;
+ border-radius: 50px;
+ margin-top: 10px;
+ text-align: left;
+  }
+
+.ef{
+  background-color: yellow;
+ height: 500px;
+ width: 500px;
+ border-style: double groove;
+ border-top-color: red;
+ border-bottom-color: blue;
+ border-right-color: green;
+ border-left-color:yellow;
+ border-radius: 50px;
+ margin-left: -50px;
+ text-align: left;
+}
+.table{ border-radius: 15px;
+       border-color: green;
+}
+th,td{
+  padding-right: 300px;
+  text-align: left;
+  color: purple;
+  border-color: green;
+  border-radius: 15px;
+}
+.in{
+  display: inline-block;
+}

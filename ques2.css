@@ -1,0 +1,44 @@
+.inline{
+  display:inline-table;
+
+}
+
+
+
+.oval {
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+  border-style: dotted;
+  border-top-left-radius: 25%;
+  border-top-right-radius: 80%;
+  border-bottom-left-radius:80% ;
+  border-bottom-right-radius: 25%;
+  border-color: red;
+  border-width: 3px;
+
+
+}
+.bor{
+  height: 105px;
+  width: 105px;
+  border-style: dotted;
+  border-color: green;
+  border-width: 2px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+
+}
+.oval1{
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+  border-style: dotted;
+  border-top-left-radius: 80%;
+  border-top-right-radius: 25%;
+  border-bottom-left-radius:25% ;
+  border-bottom-right-radius: 80%;
+  border-color: red;
+  border-width: 3px;
+
+}

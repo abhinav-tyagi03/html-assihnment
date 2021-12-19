@@ -1,0 +1,6 @@
+#heading{
+  text-align: center;
+}
+#Table table, th, td {
+  border: 1px solid black;
+}

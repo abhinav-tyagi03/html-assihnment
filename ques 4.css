@@ -1,0 +1,51 @@
+fieldset{
+  border-color: red;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+legend{
+  text-align: center;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.dark{
+  background-color: #b3edcf;
+}
+.light{
+  background-color: #e0f0e9
+}
+
+.top1 th, td{
+  width: 100px
+
+}
+#first{
+  padding-top: 150px;
+  padding-left: 80px;
+  width: 380px;
+}
+#second{
+  padding-top: 150px;
+  padding-left: 0px;
+  padding-right: 80px;
+  width: 380px
+}
+#third{
+  width: 380px;
+  padding-bottom: 150px;
+  padding-left: 80px;
+}
+#fourth{
+  padding-bottom: 150px;
+  padding-left: 0px;
+  padding-right: 80px;
+  width: 380px;
+}
+td:hover{
+  background-color: yellow
+}

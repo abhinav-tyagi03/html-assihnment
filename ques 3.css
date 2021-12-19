@@ -1,0 +1,33 @@
+#abc{
+  text-align: center;
+  background-color: #f79649;
+  color: #fff;
+  letter-spacing: .3em
+}
+.dark{
+  background-color: #fde9d9;
+
+}
+.last_row{
+  background-color: #687886;
+  color: #fff;
+}
+table{
+  padding: 10px;
+  background-color: #f7f8fa;
+  margin-left: auto;
+  margin-right: auto;
+}
+th, td{
+  margin: 0px;
+  padding: 0px;
+  width: 120px;
+  text-align: right;
+  border-top: 1px solid orange;
+  border-right: 1px solid grey;
+  border-collapse: collapse;
+}
+.wider{
+  width: 200px;
+  text-align: left;
+}
